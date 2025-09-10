@@ -8,6 +8,7 @@
 - Olive oil
 - Vinegar
 - Salt
+- Basil
 
 
 ## Instructions
@@ -22,3 +23,6 @@
 3. **Add dressing:**
    - Add Olive oil and vinegar, mix again
    - Add salt
+  
+4. **Garnish:**
+   - Cut or rip the basil leaves and sprinkle over the salad
